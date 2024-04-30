@@ -1,0 +1,4 @@
+node_modules/
+config/config.env
+run.sh
+nodemon_output.txt
